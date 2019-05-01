@@ -1,0 +1,9 @@
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\bin\Release\netstandard2.0\WebBot.WebDrivers.deps.json
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\bin\Release\netstandard2.0\WebBot.WebDrivers.dll
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\bin\Release\netstandard2.0\WebBot.WebDrivers.pdb
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.csprojAssemblyReference.cache
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.csproj.CoreCompileInputs.cache
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.AssemblyInfoInputs.cache
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.AssemblyInfo.cs
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.dll
+C:\qa\sourcecode\AutoBot\WebBot.WebDrivers\obj\Release\netstandard2.0\WebBot.WebDrivers.pdb

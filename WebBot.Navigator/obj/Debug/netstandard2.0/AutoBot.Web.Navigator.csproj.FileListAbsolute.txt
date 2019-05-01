@@ -1,0 +1,14 @@
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Web.Navigator.deps.json
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Web.Navigator.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Web.Navigator.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Core.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Web.Core.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Web.Core.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Debug\netstandard2.0\AutoBot.Core.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.csprojAssemblyReference.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.csproj.CoreCompileInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.AssemblyInfoInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.AssemblyInfo.cs
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.csproj.CopyComplete
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Debug\netstandard2.0\AutoBot.Web.Navigator.pdb

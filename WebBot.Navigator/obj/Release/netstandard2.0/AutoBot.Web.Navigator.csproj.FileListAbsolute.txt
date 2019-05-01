@@ -1,0 +1,8 @@
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Release\netstandard2.0\AutoBot.Web.Navigator.deps.json
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Release\netstandard2.0\AutoBot.Web.Navigator.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\bin\Release\netstandard2.0\AutoBot.Web.Navigator.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Release\netstandard2.0\AutoBot.Web.Navigator.csproj.CoreCompileInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Release\netstandard2.0\AutoBot.Web.Navigator.AssemblyInfoInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Release\netstandard2.0\AutoBot.Web.Navigator.AssemblyInfo.cs
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Release\netstandard2.0\AutoBot.Web.Navigator.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Navigator\obj\Release\netstandard2.0\AutoBot.Web.Navigator.pdb

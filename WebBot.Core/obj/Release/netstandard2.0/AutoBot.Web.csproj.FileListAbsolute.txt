@@ -1,0 +1,12 @@
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\bin\Release\netstandard2.0\AutoBot.Web.deps.json
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\bin\Release\netstandard2.0\AutoBot.Web.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\bin\Release\netstandard2.0\AutoBot.Web.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\bin\Release\netstandard2.0\AutoBot.Core.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\bin\Release\netstandard2.0\AutoBot.Core.pdb
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.csprojAssemblyReference.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.csproj.CoreCompileInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.AssemblyInfoInputs.cache
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.AssemblyInfo.cs
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.csproj.CopyComplete
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.dll
+c:\qa\sourcecode\IntegrationTesting\AutoBot.Web\obj\Release\netstandard2.0\AutoBot.Web.pdb
