@@ -1,9 +1,0 @@
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\bin\Debug\netstandard2.0\AutoBot.Web.Drivers.deps.json
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\bin\Debug\netstandard2.0\AutoBot.Web.Drivers.dll
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\bin\Debug\netstandard2.0\AutoBot.Web.Drivers.pdb
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.csproj.CoreCompileInputs.cache
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.AssemblyInfoInputs.cache
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.AssemblyInfo.cs
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.dll
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.pdb
-c:\qa\sourcecode\IntegrationTesting\AutoBot.Web.Drivers\obj\Debug\netstandard2.0\AutoBot.Web.Drivers.csprojAssemblyReference.cache
